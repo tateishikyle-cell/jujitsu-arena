@@ -1,0 +1,6 @@
+{
+  "name": "呪術 HAND",
+  "description": "呪術廻戦の手相撲・Hand Clapバトルゲーム。1vs1、AI観戦、ボス戦（1vs3）、3人チーム戦、AIトーナメント、オンライン対戦、領域展開、縛り選択、誅伏賜死の裁判を完全搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
